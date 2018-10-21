@@ -15,7 +15,7 @@ Om du vill ändra hur mycket det ska kosta att tvätta bilen så går du in i es
 
 Om du vill att det ska vara gratis så går du in i es_carwash_server rad 3 och skriver "true".
 
-Vill Ändra 3d texten så går din i es_carwash_client rad 40 och ändrar till det du vill.
+Vill du ändra 3d texten så går din i es_carwash_client rad 40 och ändrar till det du vill.
 
 
 # Installation

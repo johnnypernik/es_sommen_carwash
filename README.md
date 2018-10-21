@@ -22,6 +22,6 @@ Vill Ändra 3d texten så går din i es_carwash_client rad 40 och ändrar till d
 
 * Ladda ner alla scripts under krav
 * Lägg in alla scripten i din resources mapp
-* Gå in i server.cfg och skriv start loffe_olssontelefonservice
+* Gå in i server.cfg och skriv start es_sommen_carwash
 
 
